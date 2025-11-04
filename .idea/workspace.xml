@@ -4,23 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c73372e7-2da8-4735-87aa-cca264e883b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SecureProg.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crypto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file_ops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_auth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_crypto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_file_ops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_validation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validation.py" afterDir="false" />
+    <list default="true" id="c73372e7-2da8-4735-87aa-cca264e883b6" name="Changes" comment="Secure Programming">
+      <change afterPath="$PROJECT_DIR$/session.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logger.py" beforeDir="false" afterPath="$PROJECT_DIR$/logger.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Olegatorer"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Olegatorer/SecureProg.git",
+    "accountId": "d826a7de-bc16-407d-a6dc-199239b2ac2f"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -81,12 +80,25 @@
       <option name="presentableId" value="Default" />
       <updated>1762268019831</updated>
       <workItem from="1762268020859" duration="92000" />
-      <workItem from="1762268166023" duration="2558000" />
+      <workItem from="1762268166023" duration="4911000" />
     </task>
+    <task id="LOCAL-00001" summary="Secure Programming">
+      <option name="closed" value="true" />
+      <created>1762272358449</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1762272358449</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Secure Programming" />
+    <option name="LAST_COMMIT_MESSAGE" value="Secure Programming" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/SecureProg$.coverage" NAME=" Coverage Results" MODIFIED="1762270118292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />

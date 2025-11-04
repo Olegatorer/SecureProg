@@ -35,7 +35,7 @@ def main():
         print(f"{args.action.capitalize()} operation completed.")
     except Exception as e:
         log_event(args.action, outcome="error")
-        print(f"An error occurred:{type(e).__name__} - {e}")
+        print("An error occurred")
 
 if __name__ == "__main__":
     main()
